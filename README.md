@@ -1,4 +1,4 @@
-# Apache PHP MySQL [![GitHub version](https://badge.fury.io/gh/damofd%2Fdocker-php-apache-mysql.svg)](https://badge.fury.io/gh/damofd%2Fdocker-php-apache-mysql)
+# Docker Apache PHP MySQL [![GitHub version](https://badge.fury.io/gh/damofd%2Fdocker-php-apache-mysql.svg)](https://badge.fury.io/gh/damofd%2Fdocker-php-apache-mysql)
 
 Docker running Apache, MySQL and PHPMyAdmin.
 
