@@ -1,6 +1,4 @@
-# Apache PHP MySQL
-Docker with Apache, PHP, PHPMyAdmin, and MySQL
-# Nginx PHP MySQL [![GitHub version](https://badge.fury.io/gh/nanoninja%2Fdocker-nginx-php-mysql.svg)](https://badge.fury.io/gh/nanoninja%2Fdocker-nginx-php-mysql)
+# Apache PHP MySQL [![GitHub version](https://badge.fury.io/gh/damofd%2Fdocker-php-apache-mysql.svg)](https://badge.fury.io/gh/damofd%2Fdocker-php-apache-mysql)
 
 Docker running Apache, MySQL and PHPMyAdmin.
 
